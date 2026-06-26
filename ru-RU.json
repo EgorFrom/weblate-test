@@ -1,5 +1,6 @@
 {
     "acceptanceCommon": {
-        "cancel": "Отмена"
+        "cancel": "Отмена",
+        "save": "Сохранить"
     }
 }
